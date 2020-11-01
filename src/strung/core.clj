@@ -1,4 +1,4 @@
-(ns app.core)
+(ns strung.core)
 
 (defn strequals?
   "Checks whether two strings are equal"

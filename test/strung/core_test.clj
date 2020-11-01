@@ -1,6 +1,6 @@
-(ns app.core-test
+(ns strung.core-test
   (:require [clojure.test :refer :all]
-            [app.core :refer :all]))
+            [strung.core :refer :all]))
 
 (deftest string-equals-string-test
   (testing "That a string is equal to itself"
